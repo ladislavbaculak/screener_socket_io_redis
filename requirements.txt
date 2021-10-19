@@ -1,0 +1,4 @@
+aiohttp
+python-socketio[asyncio_client]
+redis
+python-socketio
